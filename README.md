@@ -1,2 +1,2 @@
 # DAMON
-Document Attention MOdel for Novelty (DAMON) a technique to identify redundant documents
+Document Attention MOdel for Novelty (DAMON) a technique to identify redundant documents.
