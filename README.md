@@ -1,7 +1,7 @@
 # DAMON
 Document Attention MOdel for Novelty (DAMON) a technique to identify redundant documents.
 
-This is the codebase used in the writing of the paper called: **"Is Your Document Novel? Let Attention Guide You. An Attention-Based Model For Document Level Novelty Detection"** which is under review in the Natural Langauge Engineering (NLE) journal.
+This is the codebase used in the writing of the paper called: [**"Is Your Document Novel? Let Attention Guide You. An Attention-Based Model For Document Level Novelty Detection"**](https://www.cambridge.org/core/journals/natural-language-engineering/article/abs/is-your-document-novel-let-attention-guide-you-an-attentionbased-model-for-documentlevel-novelty-detection/557EDC37DC2546434D147ECF03092A57) which is published in Natural Langauge Engineering (NLE) journal by Cambridge University Press.
 
 
 ## Requirements
